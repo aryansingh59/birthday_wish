@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Jassi",
+  "description": "A luxury digital birthday gift for Jassi Pandey from Aryan Singh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

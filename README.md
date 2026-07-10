@@ -1,2 +1,20 @@
-# birthday_wish
-A premium interactive Happy Birthday website created with love, beautiful animations, elegant design, heartfelt wishes, memorable moments, photo gallery, music, fireworks, confetti, and magical surprises. A unique digital birthday gift designed to make someone's special day unforgettable and full of happiness.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/dc176b79-067e-4022-85b3-a54d957ae16f
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
